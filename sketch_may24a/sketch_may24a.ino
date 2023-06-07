@@ -1,3 +1,5 @@
+//Tim Herrigt, Ulrich Seemann
+
 #include "Arduino_BHY2.h"
 #include "Nicla_System.h"
 
